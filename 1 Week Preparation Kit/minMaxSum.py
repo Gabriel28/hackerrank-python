@@ -1,3 +1,12 @@
+#
+# Desafio - minMaxSum
+#
+# Primeiro passo, ordenar o array em ordem asc, array esse que terá 5 int e definir uma variável aux
+# Segundo passo, criar um laço de repetição para somar os valores
+# Para obter o valor máximo devemos subtraír o total - a última (maior) posição do array.
+# Para obter o valor mínimo devemos subtraír o total - a primeira (menor) posição do array.
+# Imprimir os valores
+
 def min_max_sum_with_for(arr):
     arr.sort()
     total = 0
