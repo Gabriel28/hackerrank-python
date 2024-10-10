@@ -1,4 +1,4 @@
-# HackerRank - Python Challengers
+# HackerRank - Python Challenger
 
 Este repositório terá como única finalidade armazenar todos os desafios concluídos no HackerRank
 
